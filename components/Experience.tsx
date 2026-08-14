@@ -7,7 +7,7 @@ const experiences = [
   {
     company: 'Nuvai AI Solutions Pvt Ltd',
     role: 'AI Engineer Intern',
-    duration: 'Dec 2025 – Present',
+    duration: 'Dec 2025 – July 2026',
     location: 'On-Site',
     color: 'cyan' as const,
     certificate: null,
