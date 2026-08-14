@@ -10,7 +10,7 @@ const experiences = [
     duration: 'Dec 2025 – July 2026',
     location: 'On-Site',
     color: 'cyan' as const,
-    certificate: null,
+    certificate: 'https://drive.google.com/file/d/1MQOg-b6mPB-omdCtbOQblTm7J_1p2DiS/view?usp=drive_link',
     bullets: [
       'Designed a YAML-to-Knowledge Graph pipeline mapping hierarchical configurations as nodes and edges, preserving structural context for Graph RAG and AI retrieval workflows.',
       'Built a vector embedding pipeline for graph nodes enabling semantic search, replacing keyword-based retrieval; integrated Knuckles framework for AI pipeline orchestration.',
