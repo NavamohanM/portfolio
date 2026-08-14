@@ -47,22 +47,25 @@ export default function About() {
               </div>
             </div>
           </div>
-          <p className="text-slate-300 text-lg leading-relaxed">
-            Hey! I&apos;m <span className="text-cyan-400 font-semibold">Navamohan</span>, a Computer Science
-            graduate from <span className="text-white font-medium">Government College of Technology (GCT)</span>,
-            Coimbatore. I&apos;m passionate about building systems at the intersection of AI and software engineering.
-          </p>
-          <p className="text-slate-400 leading-relaxed">
-            Currently working as an <span className="text-purple-400 font-medium">AI Engineer Intern</span> at{' '}
-            <span className="text-white font-medium">Nuvai AI Solutions</span>, I develop pipelines that transform
-            structured data into knowledge graphs and build semantic search systems using vector embeddings and
-            efficient indexing techniques.
-          </p>
-          <p className="text-slate-400 leading-relaxed">
-            I enjoy building practical applications — from production-ready inventory systems with analytics
-            dashboards to real-time chat platforms. I&apos;m always exploring new technologies in AI, system
-            architecture, and backend development.
-          </p>
+         <p className="text-slate-300 text-lg leading-relaxed">
+  Hey! I&apos;m <span className="text-cyan-400 font-semibold">Navamohan</span>, a Computer Science
+  graduate from <span className="text-white font-medium">Government College of Technology (GCT)</span>,
+  Coimbatore. I&apos;m interested in building practical software and AI systems that solve real-world
+  problems.
+</p>
+
+<p className="text-slate-400 leading-relaxed">
+  During my time as an <span className="text-purple-400 font-medium">AI Engineer Intern</span> at{' '}
+  <span className="text-white font-medium">Nuvai AI Solutions</span>, I developed pipelines that transformed
+  structured data into knowledge graphs and built semantic search systems using vector embeddings and
+  efficient indexing techniques.
+</p>
+
+<p className="text-slate-400 leading-relaxed">
+  I enjoy building practical applications — from production-ready inventory systems with analytics
+  dashboards to real-time chat platforms. I&apos;m currently looking for opportunities where I can
+  contribute to software, AI, and backend development while continuing to grow as an engineer.
+</p>
 
           <div className="flex flex-wrap gap-3 pt-2">
             {['Open to Work', 'Full-Time Opportunities', 'Collaborations', 'AI & Backend'].map(tag => (
