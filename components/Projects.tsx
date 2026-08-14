@@ -37,7 +37,6 @@ const projects: {
       'Production-deployed full-stack inventory system with role-based access (Admin/Staff), ACID-safe Purchase & Sales management, per-product low-stock alerts, and SKU support. Features an analytics dashboard with 3 live Chart.js charts (revenue, stock distribution, units-sold), date-range filters, CSV export, and real-time low-stock navbar badge. Secured with bcrypt, CSRF tokens, prepared statements, and session regeneration.',
     tech: ['PHP 8.3', 'MySQL', 'Bootstrap 5', 'Chart.js', 'Railway'],
     github: 'https://github.com/NavamohanM/Stock-Inventory-Management',
-    live: 'https://stock-inventory-management.up.railway.app/login.php',
     Icon: BarChart3,
     color: 'cyan' as const,
   },
